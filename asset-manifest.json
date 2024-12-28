@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Crypto-Hunter/static/css/main.cbbf8c97.css",
-    "main.js": "/Crypto-Hunter/static/js/main.9a6a71ec.js",
+    "main.js": "/Crypto-Hunter/static/js/main.d878db89.js",
     "index.html": "/Crypto-Hunter/index.html",
     "main.cbbf8c97.css.map": "/Crypto-Hunter/static/css/main.cbbf8c97.css.map",
-    "main.9a6a71ec.js.map": "/Crypto-Hunter/static/js/main.9a6a71ec.js.map"
+    "main.d878db89.js.map": "/Crypto-Hunter/static/js/main.d878db89.js.map"
   },
   "entrypoints": [
     "static/css/main.cbbf8c97.css",
-    "static/js/main.9a6a71ec.js"
+    "static/js/main.d878db89.js"
   ]
 }
