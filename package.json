@@ -10,7 +10,12 @@
     "react-router-dom": "^6.28.1",
     "react-scripts": "5.0.1"
   },
+  "homepage": "https://kethankoushik09.github.io/Crypto-Hunter",
+
   "scripts": {
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
