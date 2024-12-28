@@ -32,8 +32,7 @@ const Text = () => {
     <div>
         <div className='main-heading'>
             <h1>Largest<br/> Crypto Marketplace</h1>
-            <p>wlecomes to the world's largest cryptocurrency marketplace.<br/>
-                signup tpexplore more about cryptos
+            <p>welcome to the world's largest cryptocurrency marketplace.<br/>
             </p>
             <div className='searching-wrapper'>
                 <input value={input} onChange={handleSetinput} list="coinlist" type='text' placeholder='Search crypto..'/>
